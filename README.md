@@ -1,4 +1,4 @@
-# NOTICE-MANISH
+# NOTICE
 
 This repository is deprecated.  It only teaches you how to write chaincode for Hyperledger Fabric v0.6.  For information
 on how to write chaincode for the latest Fabric releases, see the [Hyperledger documentation](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html).
